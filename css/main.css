@@ -1,0 +1,23 @@
+.main-inner {
+    max-width: 100%;
+    height: 100vh;
+    
+
+}
+.pic-1-half {
+    background-image: url(../image/Path\ \(2\).png);
+    width: 100%;
+    height: 1161px;
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-position: 100% -100px;
+   
+}
+.pic-2-half {
+    background-image: url(../image/Group\ \(2\).png);
+    background-repeat: no-repeat;
+    width: 975px;
+    height: 780px;
+    
+    
+}
